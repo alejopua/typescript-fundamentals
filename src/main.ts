@@ -1,2 +1,2 @@
 
-import './basics/01-hello'
+import './basics/03-typing'
